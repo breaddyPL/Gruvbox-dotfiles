@@ -2,6 +2,7 @@
 * Terminal = [Alacritty](https://github.com/alacritty/alacritty)
 * Hardware monitor = [hw-monitor](https://github.com/husseinhareb/hw-monitor)
 * Bar = [Polybar](https://github.com/polybar/polybar)
+* Shell = [ZSH](https://github.com/zsh-users/zsh)
 * WM = [bspwm](https://github.com/baskerville/bspwm)
 * Audio Visualizer = [cava](https://github.com/karlstav/cava)
 * Compositor = [Picom](https://github.com/yshui/picom)
